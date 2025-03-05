@@ -1,0 +1,22 @@
+# Binaries and executables
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+/bin
+
+# Test binary
+*.test
+
+# Output of the go coverage tool
+*.out
+
+# Go workspace file
+go.work
+
+# SSH keys
+*.pem
+*.key
+*.pub
+id_rsa*
